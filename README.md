@@ -94,6 +94,9 @@ The model achieved approximately:
 ```text
 kidney-disease-analysis/
 │
+├── dataset/
+│   └── README.md
+│
 ├── kidney_disease_cnn.py
 ├── requirements.txt
 ├── README.md
